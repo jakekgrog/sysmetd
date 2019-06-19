@@ -6,7 +6,6 @@ SysMetD is a distributed system metrics monitoring platform designed to give ins
 - CPU
 - Network
 - Disk
-- Network
 
 ## Agents & Aggrelyzers
 
