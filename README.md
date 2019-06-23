@@ -80,3 +80,20 @@ You will be able to graph near real-time streaming data as well as being able to
 - Least active nodes by metric
 
 (These features will allow you see how well a fleet of machines are performing, whether you need to scale up or scale down, draw attention to potention bottlenecks/pain-points in your system and notify you when something goes wrong).
+
+# Installation
+
+Before you begin, you need Python 3.x. Make sure you also have the latest version of pip.
+
+```
+curl https://bootstrap.pypa.io/get-pip.py | python3
+pip3 install --upgrade pip
+```
+
+Once you have those, you need to clone this repo.
+
+```
+git clone https://github.com/r-dog/sysmetd
+```
+
+MORE TO FOLLOW
