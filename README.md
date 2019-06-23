@@ -66,6 +66,9 @@ You will be able to graph near real-time streaming data as well as being able to
 - 24 hour
 
 # TODO
+
+(this is a very high level overview)
+
 - [x] Initial agent implementation
 - [x] Initial log tail streamer
 - [ ] Initial aggrelyzer implementation
