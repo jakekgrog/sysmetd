@@ -22,12 +22,12 @@ SysMetD is a distributed system metrics monitoring platform designed to give ins
   * Context switches
   * Interrupts
   * Soft interrupts
-  * system calls
+  * System calls
 - Network
   * Bytes sent
-  * bytes received
-  * packets sent
-  * packets received
+  * Bytes received
+  * Packets sent
+  * Packets received
   * ERRIN
   * ERROUT
   * DROPIN
@@ -36,7 +36,7 @@ SysMetD is a distributed system metrics monitoring platform designed to give ins
   * Total disk space
   * Used disk space
   * Free disk space
-  * usage percentage
+  * Usage percentage
   * Read count
   * Write count
   * Read time
@@ -55,11 +55,8 @@ SysMetD agents run on individual machines and log all the above information ever
 
 SysMetD aggrelyzers will stream the tail of the log files produced by the agents, aggregate and analyze the data.
 
-You will be able to graph near real-time data.
+You will be able to graph near real-time streaming data as well as being able to graph historical data on the following periods:
 
-You will also be able to graph historical data on the following periods:
-- 1 second
-- 5 seconds
 - 30 seconds
 - 1 minute
 - 5 minute
