@@ -75,4 +75,5 @@ You will be able to graph near real-time streaming data as well as being able to
 - Alarming and notifications
 - Most active nodes by metric
 - Least active nodes by metric
-(These features will allow you see how well a fleet of machines are performing and whether you need to scale up or scale down your fleet)
+
+(These features will allow you see how well a fleet of machines are performing, whether you need to scale up or scale down and draw attention to potention bottlenecks/pain-points in your system)
