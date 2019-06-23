@@ -70,3 +70,9 @@ You will be able to graph near real-time streaming data as well as being able to
 - [x] Initial log tail streamer
 - [ ] Initial aggrelyzer implementation
 - [ ] Initial graphing dashboard
+
+# Future Features
+- Alarming and notifications
+- Most active nodes by metric
+- Least active nodes by metric
+(These features will allow you see how well a fleet of machines are performing and whether you need to scale up or scale down your fleet)
