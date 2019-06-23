@@ -67,3 +67,9 @@ You will also be able to graph historical data on the following periods:
 - 3 hour
 - 12 hour
 - 24 hour
+
+# TODO
+- [x] Initial agent implementation
+- [x] Initial log tail streamer
+- [] Initial aggrelyzer implementation
+- [] Initial graphing dashboard
