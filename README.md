@@ -71,5 +71,5 @@ You will also be able to graph historical data on the following periods:
 # TODO
 - [x] Initial agent implementation
 - [x] Initial log tail streamer
-- [] Initial aggrelyzer implementation
-- [] Initial graphing dashboard
+- [ ] Initial aggrelyzer implementation
+- [ ] Initial graphing dashboard
