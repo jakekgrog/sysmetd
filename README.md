@@ -51,7 +51,7 @@ __Note:__ Depending on the platform this runs on, you may be restricted on the m
 
 ## Agents & Aggrelyzers
 
-SysMetD agents run on individual machines and log all the above information every 10 milliseconds.
+SysMetD agents run on individual machines and log all the above information every 100 milliseconds.
 
 SysMetD aggrelyzers will stream the tail of the log files produced by the agents, aggregate and analyze the data.
 
