@@ -3,49 +3,49 @@
 SysMetD is a distributed system metrics monitoring platform designed to give insight into how a distributed system is performing by analysing and graphing stats on the following parameters:
 
 - Memory
-⋅⋅* Total virtual memory
-⋅⋅* Available virtual memory
-⋅⋅* Virtual memory utilization
-⋅⋅* Virtual memory used
-⋅⋅* Virtual memory free
-⋅⋅* Virtual memory active
-⋅⋅* Virtual memory inactive
-⋅⋅* Virtual memory buffers
-⋅⋅* Virtual memory cached
-⋅⋅* Virtual memory shared
-⋅⋅* Virtual memory slabs
+  * Total virtual memory
+  * Available virtual memory
+  * Virtual memory utilization
+  * Virtual memory used
+  * Virtual memory free
+  * Virtual memory active
+  * Virtual memory inactive
+  * Virtual memory buffers
+  * Virtual memory cached
+  * Virtual memory shared
+  * Virtual memory slabs
 - CPU
-⋅⋅* CPU wide utilization
-⋅⋅* CPU utilization per core
-⋅⋅* CPU wide frequency (current, min, max)
-⋅⋅* CPU temperature per core (current, high, critical)
-⋅⋅* Context switches
-⋅⋅* Interrupts
-⋅⋅* Soft interrupts
-⋅⋅* system calls
+  * CPU wide utilization
+  * CPU utilization per core
+  * CPU wide frequency (current, min, max)
+  * CPU temperature per core (current, high, critical)
+  * Context switches
+  * Interrupts
+  * Soft interrupts
+  * system calls
 - Network
-⋅⋅* Bytes sent
-⋅⋅* bytes received
-⋅⋅* packets sent
-⋅⋅* packets received
-⋅⋅* ERRIN
-⋅⋅* ERROUT
-⋅⋅* DROPIN
-⋅⋅* DROPOUT
+  * Bytes sent
+  * bytes received
+  * packets sent
+  * packets received
+  * ERRIN
+  * ERROUT
+  * DROPIN
+  * DROPOUT
 - Disk
-⋅⋅* Total disk space
-⋅⋅* Used disk space
-⋅⋅* Free disk space
-⋅⋅* usage percentage
-⋅⋅* Read count
-⋅⋅* Write count
-⋅⋅* Read time
-⋅⋅* Write time
-⋅⋅* Read merged count
-⋅⋅* Write merged count
-⋅⋅* Busy time
+  * Total disk space
+  * Used disk space
+  * Free disk space
+  * usage percentage
+  * Read count
+  * Write count
+  * Read time
+  * Write time
+  * Read merged count
+  * Write merged count
+  * Busy time
 - Hardware
-⋅⋅* Fan speed (If H/W sensors are available you will have access to this e.g. CPU fan speed)
+  * Fan speed (If H/W sensors are available you will have access to this e.g. CPU fan speed)
 
 __Note:__ Depending on the platform this runs on, you may be restricted on the metrics you have access to.
 
