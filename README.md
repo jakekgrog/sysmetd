@@ -65,6 +65,14 @@ You will be able to graph near real-time streaming data as well as being able to
 - 12 hour
 - 24 hour
 
+# Examples
+
+CPU Utilization across fleet for 24 hours - 30 second period
+![CPU Utilization across fleet for 24 hours - 30 second period](https://github.com/r-dog/sysmetd/blob/master/examples/a1.png)
+
+Zoom on CPU utilization across fleet - 30 second period
+![Zoom on CPU utilization across fleet - 30 second period](https://github.com/r-dog/sysmetd/blob/master/examples/a2.png)
+
 # TODO
 
 (this is a very high level overview)
